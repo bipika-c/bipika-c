@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Bipika 👋
 
-<!--
-**bipika-c/bipika-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer | 💻 Front-End Enthusiast  
+Passionate about creating intuitive, user-friendly digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Bachelor of Information Management (BIM)
+- 🎨 UI/UX Designer with experience in **Figma**
+- 💻 Front-end skills in **HTML, CSS, JavaScript**
+- 📱 Interested in **Product Design & User Experience**
+- 🌱 Currently learning **React**
+
+---
+
+## 🛠 Skills
+
+**Design**
+- Figma
+- Canva
+- Photoshop
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Other Tools**
+- Git & GitHub
+- WordPress
+
+---
+
+## 📌 Projects
+
+### RFID Inventory Management System
+UI design for inventory tracking using RFID technology.
+
+### Cattle Monitoring System
+Dashboard and mobile UI design for livestock monitoring inspired by JioGau Samriddhi.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+
+⭐️ From [Bipika](https://github.com/YOURUSERNAME)
